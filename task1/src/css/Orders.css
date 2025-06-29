@@ -1,0 +1,100 @@
+.dashboard-container {
+  padding: 30px;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  font-family: 'Arial', sans-serif;
+}
+
+.dashboard-title {
+  color: #333;
+  font-size: 2.5em;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Loading and Error Message */
+.loading-message, .error-message {
+  color: #dc3545;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+/* No Orders Message */
+.no-orders-message {
+  color: #6c757d;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+/* Order Card */
+.order-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+  transition: transform 0.3s ease;
+}
+
+/* Hover Effect on Order Card */
+.order-card:hover {
+  transform: scale(1.02);
+}
+
+/* Order Date */
+.order-date {
+  color: #007bff;
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+/* Order Items List */
+.order-items-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Order Item */
+.order-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #f1f1f1;
+  border-radius: 8px;
+  background-color: #fafafa;
+  transition: background-color 0.3s ease;
+}
+
+.order-item:hover {
+  background-color: #f1f1f1;
+}
+
+/* Item Image */
+.order-item-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 8px;
+}
+
+/* Item Details */
+.item-details {
+  flex-grow: 1;
+}
+
+.item-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+}
+
+.item-price {
+  font-size: 1.1em;
+  color: #28a745;
+  margin-top: 5px;
+}

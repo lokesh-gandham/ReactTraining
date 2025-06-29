@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "id": "9173",
+      "firstname": "Sunny",
+      "lastname": "Mark",
+      "username": "sunnymark@gmail.com",
+      "password": "Sunny@2721",
+      "contact": "9133723123",
+      "address": "18-4-23/1,gandhinagar,hyderabad-500053",
+      "age": "19",
+      "role": "admin"
+    },
+    {
+      "id": "f89e",
+      "firstname": "lokesh",
+      "lastname": "aditya",
+      "username": "lokeshaditya@gmail.com",
+      "password": "Lokesh@2721",
+      "contact": "9133723123",
+      "address": "hyderabad",
+      "age": "21",
+      "role": "user"
+    },
+    {
+      "id": "fa5f",
+      "firstname": "rahul",
+      "lastname": "seelam",
+      "username": "rahul@123",
+      "password": "Rahul@2721",
+      "contact": "9133723124",
+      "address": "balapur",
+      "age": "25",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Wrogn Men's Solid Casual Blue Shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQW2w_KqfxOESHhJVVPQLdcHNpyXc0SS0dSLSyaYS1wQKf1RzSEmgaDuT_Uv-W9MFEdBOOcgqZeTkY14nlK0W7sd2XauAqsudKFJNvKrc4&usqp=CAc",
+      "category": "Shirts",
+      "description": "A classic blue shirt perfect for casual outings.",
+      "price": 924
+    },
+    {
+      "id": "2",
+      "name": "Wrogn Men's Solid Casual White Shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWJrUxf5vTWDnfh3kLFwbWvcKPL7PGdSDDNRNaawHtCj-MtQk9JuOCuMd15QChXGSd7D0LFJlPXsRuUfkhQBYdYOEDcYvgJ8Vr1ZJJ4LGlINP5oNbVW194_f_S&usqp=CAc",
+      "category": "Shirts",
+      "description": "A versatile white shirt suitable for various occasions.",
+      "price": 399
+    },
+    {
+      "id": "3",
+      "name": "Wrogn Men's Solid Casual Pink Shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_JeLUYTXyey69qU8U6nYzsqUc3Snvrfa_5NbvAUPI8viIv7F2bBD09UQPRx4ZyNb7fkfOaBdtPdp1ypNVopCjtZ-FdiJHrWZcLUPFgacrM_zT-5RbvRLYQQ&usqp=CAc",
+      "category": "Shirts",
+      "description": "A stylish pink shirt that adds a pop of color to your wardrobe.",
+      "price": 444
+    },
+    {
+      "id": " 4",
+      "name": "Wrogn Men's Solid Casual Green Shirt",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdIJtEOk9ojbLty1d2tS6tBF9MgKndw97AwBbMVnCn_LYVP7Y3KfofPC8450K3KffnTyc2azCyrpcPnhHSBhz-LmoUaltn-N7i0Ltez-rV",
+      "category": "Shirts",
+      "description": "A refreshing green shirt for a casual look.",
+      "price": 449
+    },
+    {
+      "id": "5",
+      "name": "Wrogn Men's Solid Casual Khaki Shirt",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRBldc4DxU5EEpVeNQhN0m6Nl4uFh-avWp_A9J0uokInncCvYeX2VrNVHi6t7FIJGlT8bQX9oIWjocwSHIoI5eOgiinRAyLB00-q5AZ2Z9y5su2Ag6M2wjEYw&usqp=CAc",
+      "category": "Shirts",
+      "description": "A neutral khaki shirt that pairs well with various outfits.",
+      "price": 210
+    },
+    {
+      "id": "6",
+      "name": "Wrogn Men's Self Design Casual Pink Shirt",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRmT160YaEIdUT7s2FCyxv6hV40J1satLJrnVNz7-2PS9PDtQ5Dlt6GkzY7xSQ18-HYuQ4uk3PmZPu1EMH4OsOoISIvtj1BxKz2RHX9qGvbXkScJeJB-xMgFQ&usqp=CAc",
+      "category": "Shirts",
+      "description": "A pink shirt with subtle self-design patterns.",
+      "price": 1250
+    },
+    {
+      "id": "7",
+      "name": "Wrogn Men's Printed Casual White Shirt",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9FWqZREhRvjJgITkSyZojf5MpVmjr7SeAE1zEgfUUUuqQ14L-cUfbvx7gBvuCkYKayBTiIZg3J2-sS8hAcIPV14N6Pic7IsXNzVYmH2o",
+      "category": "Shirts",
+      "description": "A white shirt with printed designs for a trendy look.",
+      "price": 850
+    },
+    {
+      "id": "8",
+      "name": "Wrogn Men's Checkered Casual Blue Shirt",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRLPbUZouZaP6bWnpJyypdIx6xQT8Vp-ww_6DjOEoytGQnxOxhgJ5YliHyH2hUI-SQlG7QNG58dxXGApUnq4RnUZ7-_-yxHSvTc6DniKzNK",
+      "category": "Shirts",
+      "description": "A blue checkered shirt for a classic look.",
+      "price": 1034
+    },
+    {
+      "id": "9",
+      "name": "Wrogn Men's Self Design Casual Black Shirt",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJ66hZMUnWkbMjAKIurygGWScIDgkajlWTJiTvglqrz4IgfkVfSpWsZeUbDy7h-EHaq_D_sjTxLSxIyFgZN8aAfSia0B6g2wHZfLxOSf91a2j5KXoo2HyXlg",
+      "category": "Shirts",
+      "description": "A black shirt with self-design patterns for a sophisticated look.",
+      "price": 449
+    },
+    {
+      "id": "10",
+      "name": "Wrogn Men's Striped Casual Pink Shirt",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvgg4Wbr-UQxhXJpTm-MMEo_lvV3F0lDdUmOrb1PFyo2TjZ1PIqU9W9COwNktjdE3KFIEGXEamtSLVICHrNb99GKk92Qks5gbgVtVWdNs",
+      "category": "Shirts",
+      "description": "A pink shirt with striped patterns for a stylish appearance.",
+      "price": 1099
+    },
+    {
+      "id": "11",
+      "name": "Wrogn Men's Printed Casual Green Shirt",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTQg_QhyB9g4InaATju4N8Dcvy0sV0Rda1yblzxIzKydriBI7cW5vrVURXWGnat7S9bAxJuJ47MFMLOijaY3f1NZiJx_JLEJtgJ8k6q2w",
+      "category": "Shirts",
+      "description": "A green shirt with printed designs for a trendy look.",
+      "price": 944
+    },
+    {
+      "id": "12",
+      "name": "Wrogn Men's Solid Casual Green Shirt",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJiSJsgt00nboX7GP1kCnDzHxblHzdaBKL6BkD9M0zo_ulhyj0MIKdXdvDlN6AXkgoGcE9853aQBfa4y-F3Nnxfkk1ZcreWBNBd-mxhvcXq0AOCyYMbNF-ig",
+      "category": "Shirts",
+      "description": "A solid green shirt for a casual yet stylish appearance.",
+      "price": 799
+    },
+    {
+      "name": "Elite Peach Premium Shirt",
+      "category": "Formals",
+      "description": "Elevate your style with the Elite Peach Premium Shirt, offering a sophisticated hue and a tailored fit. Crafted from premium materials for ultimate comfort and class.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVLDsEK_3LTH2n0inXrE324p9qC2tBqCQIStargLvXzlwFjatMmdlRNP2cyVw-31psd9hs0ne3NeFME4oAzEbtFZOthVoumsFWJrvRrOWyV1oSYk1e1Zan",
+      "price": "1299",
+      "ImageUrl": "https://lh3.ghttps://wrogn.com/cdn/shop/files/3_7f5b9f63-dd54-4a6a-b32e-3c2632363ff1.webp?v=1739344201&width=360oogleusercontent.com/PSAKn6U2skuPkdm7KpR4_YCBuyZF8_ohbT4E8k45Xev34Dd79wG12bGaO7chY_wBZCvZeRXi7S5ecQFHhzXiGIgOkihFloT2mvvP=e365-pa-nu-w1440-rw",
+      "id": "545a"
+    }
+  ],
+  "orders": [
+    {
+      "id": "f039",
+      "items": [
+        {
+          "id": "3",
+          "name": "Wrogn Men's Solid Casual Pink Shirt",
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_JeLUYTXyey69qU8U6nYzsqUc3Snvrfa_5NbvAUPI8viIv7F2bBD09UQPRx4ZyNb7fkfOaBdtPdp1ypNVopCjtZ-FdiJHrWZcLUPFgacrM_zT-5RbvRLYQQ&usqp=CAc",
+          "category": "Shirts",
+          "description": "A stylish pink shirt that adds a pop of color to your wardrobe.",
+          "price": 444
+        }
+      ],
+      "date": "2025-05-23T07:54:49.650Z"
+    }
+  ]
+}
