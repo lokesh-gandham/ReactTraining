@@ -1,3 +1,13 @@
+## 🖼️ Screenshots
+
+### 🛒 Cart Page
+![Cart Screenshot](screenshots/cartiems.jpg)
+
+### 📊 Dashboard
+![Dashboard Screenshot](screenshots/dashboard.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
