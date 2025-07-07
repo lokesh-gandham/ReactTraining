@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import { useCart } from "./CartContext";
+import { useCart } from "../context/CartContext";
 
 function UserDashboard() {
   const [products, setProducts] = useState([]);

@@ -1,20 +1,19 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import Login from './components/Login';
-import Register from './components/Register';
-import Navbar from './components/Navbar';
+import Login from './components//login/Login';
+import Register from './components/registration/Register';
+import Navbar from './components//navbar/Navbar';
 import Home from './components/admin/Home';
 import Dashboard from './components/admin/Dashboard';
-import RequireAuth from './components/RequireAuth';
+import RequireAuth from './components/login/RequireAuth';
 import ProductUpdate from './components/admin/ProductUpdate';
 import AddProduct from './components/admin/AddProduct';
 
-import UnAuthorized from './components/UnAuthorized';
+import UnAuthorized from './components/unauthorized/UnAuthorized';
 import UserDashboard from './components/user/UserDashboard';
-import CartItems from './components/user/Cartitems';
-import Orders from './components/user/Orders';
+import CartItems from './components/cart/Cartitems';
+import Orders from './components/orders/Orders';
 import UpdateUser from './components/admin/UpdateUSer';
-import Practice from './components/Practice';
 
 
 function App() {
@@ -32,6 +31,8 @@ function App() {
         {/* User Routes */}
         <Route path='/userDashboard' element={<RequireAuth allowedRoles={['user']}><UserDashboard /></RequireAuth>} />
         <Route path='/cartitems' element={<RequireAuth allowedRoles={['user']}><CartItems /></RequireAuth>} />
+
+        {/*orders route*/}
         <Route path='/orders' element={<RequireAuth allowedRoles={['user', 'admin']}><Orders /></RequireAuth>} />
 
         {/* Authentication Routes */}

@@ -141,20 +141,5 @@
       "id": "545a"
     }
   ],
-  "orders": [
-    {
-      "id": "f039",
-      "items": [
-        {
-          "id": "3",
-          "name": "Wrogn Men's Solid Casual Pink Shirt",
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_JeLUYTXyey69qU8U6nYzsqUc3Snvrfa_5NbvAUPI8viIv7F2bBD09UQPRx4ZyNb7fkfOaBdtPdp1ypNVopCjtZ-FdiJHrWZcLUPFgacrM_zT-5RbvRLYQQ&usqp=CAc",
-          "category": "Shirts",
-          "description": "A stylish pink shirt that adds a pop of color to your wardrobe.",
-          "price": 444
-        }
-      ],
-      "date": "2025-05-23T07:54:49.650Z"
-    }
-  ]
+  "orders": []
 }
