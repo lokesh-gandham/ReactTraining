@@ -1,10 +1,10 @@
 ## 🖼️ Screenshots
 
 ### 🛒 Cart Page
-![Cart Screenshot](screenshots/cartiems.jpg)
+![Cart Screenshot](src/screenshots/cartiems.jpg)
 
 ### 📊 Dashboard
-![Dashboard Screenshot](screenshots/dashboard.jpg)
+![Dashboard Screenshot](src/screenshots/dashboard.jpg)
 
 
 
